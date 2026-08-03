@@ -8,7 +8,7 @@ The application provides a 4-option menu:
 *   1. Add Expense:* Allows you to input the date, category (e.g., food, cloth), a short description, and the total amount of the expense. The data is organized and saved in a list as a dictionary.
 *   2. View All Expenses:* Checks if any expenses have been added and prints a numbered list of all your recorded entries.
 *   3. View Total Money Spent:* Calculates and displays the sum of all recorded expense amounts.
-*   4. Exit:* Exits the application loop safely.
+*   4. Exit: Exits the application loop safely.
 *   Error Handling:* Prompts the user to enter a correct option if an invalid menu choice is made.
 
 ## Technologies Used
